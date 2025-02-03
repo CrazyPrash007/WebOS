@@ -13,7 +13,6 @@ This project is a browser-based operating system interface that mimics the funct
 - Terminal
 - Screen capture tool
 - Tic-Tac-Toe game
-- Tabbed interface
 - Theme toggling (light/dark mode)
 - Notification system
 
