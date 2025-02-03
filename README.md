@@ -103,14 +103,14 @@ The desktop environment includes draggable icons and a taskbar with application 
 ## Applications
 The project includes several built-in applications:
 
-**File Explorer**: Manage files and folders.
-**Text Editor**: Edit text files.
-**Calculator**: Perform basic calculations.
-**Terminal**: Execute commands.
-**Screen Capture**: Capture screenshots.
-**Tic-Tac-Toe**: Play the Tic-Tac-Toe game.
-**Snake Game**: Play the Snake game.
-**Theme Toggling**: Toggle between light and dark modes using the theme provider.
+- **File Explorer**: Manage files and folders.
+- **Text Editor**: Edit text files.
+- **Calculator**: Perform basic calculations.
+- **Terminal**: Execute commands.
+- **Screen Capture**: Capture screenshots.
+- **Tic-Tac-Toe**: Play the Tic-Tac-Toe game.
+- **Snake Game**: Play the Snake game.
+- **Theme Toggling**: Toggle between light and dark modes using the theme provider.
 
 ## Notification System
 Receive and manage notifications within the application.
