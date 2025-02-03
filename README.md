@@ -51,7 +51,7 @@ To install and run this project, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd Web-Based-Windows-GUI-
+   cd WebOS
    ```
 
 3. Install the dependencies:
@@ -93,6 +93,52 @@ Contains the project metadata, scripts, and dependencies. Key scripts include:
 `build`: Builds the project.
 `start`: Starts the production server.
 `lint`: Runs ESLint.
+
+## Project Structure
+```
+.
+├── .gitignore
+├── app/
+│   ├── components/
+│   │   ├── applications/
+│   │   │   ├── Calendar.tsx
+│   │   │   ├── ClipboardManager.tsx
+│   │   │   ├── ContextMenu.tsx
+│   │   │   ├── Desktop.tsx
+│   │   │   ├── DesktopIcon.tsx
+│   │   │   ├── LoginScreen.tsx
+│   │   │   ├── NetworkStatus.tsx
+│   │   │   ├── NotificationBell.tsx
+│   │   │   └── ...
+│   │   └── ...
+│   ├── contexts/
+│   │   └── ...
+│   ├── globals.css
+│   ├── hooks/
+│   │   └── ...
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── theme-provider.tsx
+│   └── ui/
+│       └── ...
+├── components.json
+├── hooks/
+│   ├── use-mobile.tsx
+│   └── use-toast.ts
+├── lib/
+│   └── utils.ts
+├── next.config.mjs
+├── package.json
+├── postcss.config.mjs
+├── public/
+├── README.md
+├── styles/
+│   └── globals.css
+├── tailwind.config.ts
+└── tsconfig.json
+```
+
 
 # Usage
 
