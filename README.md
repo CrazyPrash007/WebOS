@@ -96,11 +96,11 @@ Contains the project metadata, scripts, and dependencies. Key scripts include:
 
 ## Usage
 
-## Desktop Environment
+# Desktop Environment
 
 The desktop environment includes draggable icons and a taskbar with application shortcuts. You can open, close, minimize, and maximize windows.
 
-## Applications
+# Applications
 The project includes several built-in applications:
 
 **File Explorer**: Manage files and folders.
@@ -112,7 +112,7 @@ The project includes several built-in applications:
 **Snake Game**: Play the Snake game.
 **Theme Toggling**: Toggle between light and dark modes using the theme provider.
 
-## Notification System
+# Notification System
 Receive and manage notifications within the application.
 
 ## Contributing
